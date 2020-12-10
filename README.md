@@ -11,4 +11,5 @@ Namaste 🙏🏾
 + 💬 I love to discuss about programming, Computers, Maths, Physics and Humanity
 + 📫 How to reach me: https://www.linkedin.com/in/dazzlerkumar/
 + 🎮 Valorant ID :- dazzlerkumar #2428
++ 🔁 Join my language exchange server on Discord: https://discord.gg/H6Ja4frhtp
 + ⚡ Fun fact: India has no national language. 
