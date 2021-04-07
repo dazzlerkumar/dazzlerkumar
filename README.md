@@ -4,12 +4,10 @@ Namaste 🙏🏾
 -->
 
 
-+ 💻 Favourite Programming langs : CPP (always) and JavaScript
-+ 🔭 I’m currently working on my very own website 
-+ 🌱 I’m currently learning Machine Learning using TensorFlow.js
++ 💻 Favourite Programming langs : CPP (always) and JavaScript 
++ 🌱 I’m currently learning Data Analysis
 + 🤔 I’m looking for help with procrastination and migraine 🥵
-+ 💬 I love to discuss about programming, Computers, Maths, Physics and Humanity
++ 💬 I love to discuss about programming, Computers, Maths, Physics and Humanities
 + 📫 How to reach me: https://www.linkedin.com/in/dazzlerkumar/
-+ 🎮 Valorant ID :- dazzlerkumar #2428
-+ 🔁 Join my language exchange server on Discord: https://discord.gg/H6Ja4frhtp
++ 🔁 Join my study server on Discord: https://discord.gg/ZWfMxvRSQv
 + ⚡ Fun fact: India has no national language. 
