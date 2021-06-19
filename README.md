@@ -12,4 +12,4 @@ Namaste 🙏
 + 🔁 Join my study server on Discord: https://discord.gg/ZWfMxvRSQv
 + ⚡ Fun fact: India has no national language. 
 
-![profile banner](/square_wave.gif "Banner")
+![profile banner](/pixelated-web-footer.png "Banner")
