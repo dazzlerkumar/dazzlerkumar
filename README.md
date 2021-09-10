@@ -10,7 +10,7 @@
 + ⌨ Programming language I like the most is C++  
 + 🌱 I’m currently exploring NextJs and Computer Networks
 + 💬 I love to discuss about programming, Computers, Maths, Physics and Humanities
-+ 📫 How to reach me:  https://www.linkedin.com/in/dazzlerkumar/ </
++ 📫 How to reach me:  https://www.linkedin.com/in/dazzlerkumar/ 
 + 👩🏾‍💻 My portfolio : https://dazzlerkumar.vercel.app/ 
 + 🔁 Join my study server on Discord: https://discord.gg/ZWfMxvRSQv 
 + ⚡ Fun fact: India has no national language. 
