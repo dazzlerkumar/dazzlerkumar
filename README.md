@@ -32,7 +32,7 @@ Currently, working as a frontend engineer at Doorpix Pvt Ltd India. A developer 
 <hr style="background:#130F40">
 <br>
 <div align="center">
-[![@dazzlerkumar's Holopin board](https://holopin.me/dazzlerkumar)](https://holopin.io/@dazzlerkumar)
+![@dazzlerkumar's Holopin board](https://holopin.me/dazzlerkumar)](https://holopin.io/@dazzlerkumar)
 </div>
 <br>
 <div align="center">
