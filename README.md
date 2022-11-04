@@ -2,7 +2,7 @@
 Namaste 🙏 My name is Deepak Kumar
 =============================
 
-Frontend Engineer | CSE UnderGrad (Last Sem)
+Frontend Engineer
 --------------------------------------------
 
 Currently, working as a frontend engineer at Doorpix Pvt Ltd India. A developer who loves to analyze, code, and optimize.
@@ -32,6 +32,11 @@ Currently, working as a frontend engineer at Doorpix Pvt Ltd India. A developer 
 <hr style="background:#130F40">
 <br>
 <div align="center">
+[![@dazzlerkumar's Holopin board](https://holopin.me/dazzlerkumar)](https://holopin.io/@dazzlerkumar)
+</div>
+<br>
+<div align="center">
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dazzlerkumar&theme=github_dark&bg_color=0,000000,130F40&show_icons=true&count_private=true&border_color=4169E13)
 
