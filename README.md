@@ -7,7 +7,7 @@ Frontend Engineer
 
 Currently, working as a frontend engineer at Doorpix Pvt Ltd India. A developer who loves to analyze, code, and optimize.
 
-* 🖥️  See my portfolio at [dazzlerkumar.tech](http://dazzlerkumar.tech )
+* 🖥️  See my portfolio at [dazzlerkumar.vercel](http://dazzlerkumar.vercel.app )
 * ✉️  You can contact me at [dazzlerkumar108@gmail.com](mailto:dazzlerkumar108@gmail.com)
 
 ### Skills
