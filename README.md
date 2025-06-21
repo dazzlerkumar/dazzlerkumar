@@ -1,59 +1,60 @@
+# 👋 Namaste, I'm Deepak Kumar
 
-Namaste 🙏 My name is Deepak Kumar
-=============================
+🚀 Full-Stack Software Engineer | AI-Driven Development | Next.js | Web Widgets  
+📍 Based in India | Building products with **AI x Code → Real Impact**
 
-Frontend Engineer
---------------------------------------------
+---
 
-Currently, working as a frontend engineer at Doorpix Pvt Ltd India. A developer who loves to analyze, code, and optimize.
+🔭 Currently building full-stack, multi-tenant web applications and embeddable widgets at **TechPix Pvt Ltd** using modern tools like **Next.js (App Router, RSC)**, **TurboRepo**, **Stripe**, **Supabase**, and more. I’m passionate about crafting scalable systems and beautiful interfaces — powered by AI.
 
-* 🖥️  See my portfolio at [dazzlerkumar.vercel](http://dazzlerkumar.vercel.app )
-* ✉️  You can contact me at [dazzlerkumar108@gmail.com](mailto:dazzlerkumar108@gmail.com)
+🧠 I use tools like **Cursor.sh**, **ChatGPT**, **CodeRabbit**, and **Perplexity** daily to accelerate development and improve code quality.
 
-### Skills
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## 🛠️ Tech Stack
 
-### Socials
+**Languages:**  
+JavaScript · TypeScript · HTML · CSS · JSX
 
-<p align="left"> <a href="https://www.dev.to/dazzlerkumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/dazzlerkumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dazzlerkumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@dazzlerkumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dazzlerkumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-<br>
-<br>
-<hr style="background:#130F40">
-<br>
+**Frontend:**  
+React · Next.js · ShadCn · Tailwind CS
+
+**Backend / Infra:**  
+Node.js · Supabase · Firebase · Firestore · Stripe · MongoDB
+
+**Tooling & AI:**  
+Webpack · TurboRepo · Vercel · Figma · AI tools (ChatGPT, Cursor, Perplexity, CodeRabbit)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dazzlerkumar)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](http://dazzlerkumar.vercel.app)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/dazzlerkumar)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dazzlerkumar)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/dazzlerkumar)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-    
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dazzlerkumar&theme=github_dark&bg_color=000000&show_icons=true&count_private=true&border_color=4169E1)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dazzlerkumar&theme=github_dark&border_color=4169E1&bg_color=000000&layout=compact)
+
+</div>
+
+---
+
+## 💻 Featured Badges
+
 [![@dazzlerkumar's Holopin board](https://holopin.me/dazzlerkumar)](https://holopin.io/@dazzlerkumar)
-    
-    
-</div>
-<br>
-<div align="center">
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dazzlerkumar&theme=github_dark&bg_color=0,000000,130F40&show_icons=true&count_private=true&border_color=4169E13)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dazzlerkumar&theme=github_dark&border_color=4169E13&bg_color=0,000000,130F40&layout=compact)
-
-</div>
-<br>
-
+---
 
 <p align="center">
-    :arrow_down:  Scroll down to see my top repositories :arrow_down:
-    <br>
-    <b  style="color:#4169E1" >
-      Show some ❤️ by starring some of the repositories!
-    </b>
-  </p>
-
+    🔽 Scroll down to see my top repositories 🔽  
+    💙 Star your favorite ones to show support!
+</p>
