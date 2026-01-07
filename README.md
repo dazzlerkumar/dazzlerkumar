@@ -7,7 +7,7 @@
 
 🔭 Currently building full-stack, multi-tenant web applications and embeddable widgets at **TechPix Pvt Ltd** using modern tools like **Next.js (App Router, RSC)**, **TurboRepo**, **Stripe**, **Supabase**, and more. I’m passionate about crafting scalable systems and beautiful interfaces — powered by AI.
 
-🧠 I use tools like **Cursor.sh**, **ChatGPT**, **CodeRabbit**, and **Perplexity** daily to accelerate development and improve code quality.
+🧠 I use tools like **Antigravity**, **ChatGPT**, **CodeRabbit**, and **Perplexity** daily to accelerate development and improve code quality.
 
 ---
 
@@ -37,20 +37,12 @@ Webpack · TurboRepo · Vercel · Figma · AI tools (ChatGPT, Cursor, Perplexity
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dazzlerkumar&theme=github_dark&bg_color=000000&show_icons=true&count_private=true&border_color=4169E1)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dazzlerkumar&theme=github_dark&border_color=4169E1&bg_color=000000&layout=compact)
-
-</div>
-
----
 
 ## 💻 Featured Badges
-
-[![@dazzlerkumar's Holopin board](https://holopin.me/dazzlerkumar)](https://holopin.io/@dazzlerkumar)
+<div align="center">
+<a href="https://app.daily.dev/dazzlerkumar" align="center"><img src="https://api.daily.dev/devcards/v2/UE9YfKgnJAGjmFaE1VQl4.png?r=v2o&type=wide" width="652" alt="Deepak Kumar's Dev Card"   align="center"/></a>
+</div>
 
 ---
 
